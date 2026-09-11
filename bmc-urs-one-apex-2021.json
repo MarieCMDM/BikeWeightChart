@@ -1,0 +1,217 @@
+{
+  "schemaVersion": 1,
+  "bike": {
+    "id": "bmc-urs-one-apex-2021",
+    "name": "BMC URS ONE Apex 1 (2021)",
+    "template": "gravel",
+    "metadata": {
+      "manufacturer": "BMC Switzerland",
+      "model": "URS ONE",
+      "modelYear": 2021,
+      "category": "Gravel / Adventure",
+      "color": "Speckle Grey & Neon Red",
+      "gears": "1x11",
+      "declaredWeightG": 8900,
+      "independentlyMeasuredWeightG": 9580,
+      "weightNote": "Il totale delle righe è calibrato sul peso dichiarato BMC di 8,9 kg. I pesi dei singoli componenti sono stime tecniche salvo dove indicato nella descrizione; variano con taglia e allestimento. Cycling Weekly ha misurato 9,58 kg sul proprio esemplare.",
+      "priceNote": "I prezzi sono lasciati a zero: non sono stati trovati prezzi storici 2021 in EUR verificabili per ogni singolo componente OEM. Il prezzo completo riportato da Cycling Weekly era £2.850.",
+      "fitAndStandards": {
+        "frameSizes": "S, M, L, XL (la disponibilità poteva variare per mercato)",
+        "frameGeometry": "Gravel+ Geometry, TCC Endurance",
+        "bottomBracket": "PF86 / PressFit GXP",
+        "rearAxle": "12x142 mm thru-axle",
+        "frontAxle": "12x100 mm thru-axle",
+        "brakeMount": "Flat Mount Disc",
+        "seatpost": "D-shaped proprietario BMC",
+        "maxTyreClearance": "700x45c",
+        "astmClassification": "Level 2"
+      },
+      "sources": [
+        {
+          "title": "BMC — video ufficiale URS ONE 2021",
+          "url": "https://www.youtube.com/watch?v=FNUBjEZAckM",
+          "covers": "allestimento completo, standard del telaio, peso dichiarato"
+        },
+        {
+          "title": "BMC Japan — URS ONE technical data",
+          "url": "https://e-ftb.co.jp/bmc/lineup/9518/",
+          "covers": "telaio, forcella, reggisella, freni e compatibilità"
+        },
+        {
+          "title": "SRAM — Apex 1",
+          "url": "https://www.sram.com/en/sram/road/series/sram-apex-1",
+          "covers": "identificativi e specifiche della trasmissione Apex 1"
+        },
+        {
+          "title": "Easton — EA50 AX Handlebar",
+          "url": "https://eastoncycling.com/collections/handlebars/products/ea50-ax-bar",
+          "covers": "materiale, geometria e peso del manubrio"
+        },
+        {
+          "title": "WTB — Raddler 40x700",
+          "url": "https://www.wtb.com/products/raddler",
+          "covers": "misura, carcassa e peso dei copertoni"
+        },
+        {
+          "title": "Cycling Weekly — BMC URS ONE Apex review",
+          "url": "https://www.cyclingweekly.com/reviews/bmc-urs-one-apex-review",
+          "covers": "verifica allestimento, peso misurato e prezzo completo"
+        }
+      ],
+      "compiledAt": "2026-08-05"
+    },
+    "base": {
+      "frame": {
+        "description": "BMC URS Premium Carbon — Micro Travel Technology (MTT), Gravel+ Geometry, TCC Endurance, passaggio cavi interno, attacchi parafanghi e portapacchi, Flat Mount, perno 12x142 mm, collarino integrato",
+        "weightG": 987,
+        "priceEur": 0
+      },
+      "fork": {
+        "description": "BMC URS 01 Premium Carbon — TCC Gravel/Endurance, passaggio cavo interno, Flat Mount, perno 12x100 mm; offset 50 mm taglie piccole e 45 mm taglie grandi",
+        "weightG": 500,
+        "priceEur": 0
+      },
+      "headset": {
+        "description": "Serie sterzo integrata BMC, cuscinetti per cannotto conico 1 1/8–1 1/2 pollici",
+        "weightG": 100,
+        "priceEur": 0
+      },
+      "spacers": {
+        "description": "Distanziali sterzo BMC / ICS, quantità dipendente dall’assetto",
+        "weightG": 25,
+        "priceEur": 0
+      },
+      "axles": {
+        "description": "Coppia perni passanti BMC/Shimano standard: anteriore 12x100 mm, posteriore 12x142 mm",
+        "weightG": 110,
+        "priceEur": 0
+      },
+      "seat-clamp": {
+        "description": "Binder reggisella integrato nel telaio (peso incluso nel telaio)",
+        "weightG": 0,
+        "priceEur": 0
+      },
+      "handlebar": {
+        "description": "Easton EA50 AX — alluminio EA50, diametro 31,8 mm, flare 16°, reach 80 mm, drop 120 mm; peso ufficiale 325 g in larghezza 42 cm",
+        "weightG": 325,
+        "priceEur": 0
+      },
+      "stem": {
+        "description": "BMC MSM02 — attacco manubrio in alluminio, lunghezza dipendente dalla taglia",
+        "weightG": 150,
+        "priceEur": 0
+      },
+      "seatpost": {
+        "description": "BMC 01 Premium Carbon D-Shape — 0 mm offset su S/M, 15 mm offset su L/XL",
+        "weightG": 220,
+        "priceEur": 0
+      },
+      "saddle": {
+        "description": "WTB SL8 Medium — telaio Cromoly, profilo performance/comfort",
+        "weightG": 266,
+        "priceEur": 0
+      },
+      "controls": {
+        "description": "SRAM Apex 1 HRD — coppia comandi cambio/freno idraulici DoubleTap, trasmissione meccanica 1x11",
+        "weightG": 570,
+        "priceEur": 0
+      },
+      "rear-derailleur": {
+        "description": "SRAM Apex 1 Long Cage RD-APX-1-A1 — 11 velocità, Exact Actuation, X-Horizon, frizione Roller Bearing Clutch, capacità pignone massimo 42T",
+        "weightG": 300,
+        "priceEur": 0
+      },
+      "crankset": {
+        "description": "SRAM Apex 1 FC-APX-1-A1 — guarnitura 1x, corona X-Sync 40T, pedivelle in alluminio, asse GXP",
+        "weightG": 690,
+        "priceEur": 0
+      },
+      "bottom-bracket": {
+        "description": "SRAM PressFit GXP per scatola movimento centrale PF86",
+        "weightG": 110,
+        "priceEur": 0
+      },
+      "chain": {
+        "description": "SRAM PC-1110 — catena 11 velocità con PowerLock",
+        "weightG": 259,
+        "priceEur": 0
+      },
+      "cassette": {
+        "description": "SRAM PG-1130 Apex — 11 velocità, rapporti 11–42T, corpetto ruota libera Shimano/SRAM HG",
+        "weightG": 538,
+        "priceEur": 0
+      },
+      "pedals": {
+        "description": "Non inclusi nell’allestimento di serie",
+        "weightG": 0,
+        "priceEur": 0
+      },
+      "brakes": {
+        "description": "SRAM Apex HRD-A1 — coppia pinze a disco idrauliche Flat Mount con tubazioni; leve conteggiate nella voce comandi",
+        "weightG": 330,
+        "priceEur": 0
+      },
+      "rotors": {
+        "description": "SRAM CenterLine — anteriore 180 mm, posteriore 160 mm",
+        "weightG": 280,
+        "priceEur": 0
+      },
+      "wheels": {
+        "description": "DT Swiss C 1850 Spline db — coppia 700c in alluminio, freno a disco, tubeless ready, perni 12x100/12x142 mm, corpetto HG",
+        "weightG": 1770,
+        "priceEur": 0
+      },
+      "tyres": {
+        "description": "2× WTB Raddler 700x40c TCS Light/Fast Rolling, tubeless ready; 505 g ciascuno per la versione nera 60 tpi attualmente documentata da WTB",
+        "weightG": 1010,
+        "priceEur": 0
+      },
+      "tubes-sealant": {
+        "description": "Camere d’aria oppure lattice tubeless; configurazione di consegna e quantità non documentate",
+        "weightG": 180,
+        "priceEur": 0
+      },
+      "valves": {
+        "description": "Coppia valvole Presta / tubeless",
+        "weightG": 20,
+        "priceEur": 0
+      },
+      "bottle-cages": {
+        "description": "Non inclusi nell’allestimento di serie",
+        "weightG": 0,
+        "priceEur": 0
+      },
+      "computer-mount": {
+        "description": "Non incluso nell’allestimento di serie",
+        "weightG": 0,
+        "priceEur": 0
+      },
+      "hardware": {
+        "description": "Minuteria residua conteggiata nelle rispettive voci; nessun accessorio aggiuntivo",
+        "weightG": 0,
+        "priceEur": 0
+      },
+      "bar-tape": {
+        "description": "Nastro manubrio BMC/OEM nero, inclusi tappi terminali",
+        "weightG": 80,
+        "priceEur": 0
+      },
+      "front-derailleur": {
+        "description": "Non presente: telaio e trasmissione configurati esclusivamente 1x11",
+        "weightG": 0,
+        "priceEur": 0
+      },
+      "dropper-remote": {
+        "description": "Non presente nell’allestimento di serie",
+        "weightG": 0,
+        "priceEur": 0
+      },
+      "frame-protection": {
+        "description": "Protezioni integrate su tubo obliquo e carro; peso stimato incluso nella distinta",
+        "weightG": 80,
+        "priceEur": 0
+      }
+    },
+    "alternatives": []
+  }
+}
