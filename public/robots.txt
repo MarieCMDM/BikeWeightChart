@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bikeweightchart.cmdmtech.com/sitemap.xml

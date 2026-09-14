@@ -84,7 +84,7 @@ th { text-align: left; }
 .parts-table tr.changed > th { box-shadow: inset 2px 0 var(--pink); }
 .reset-button { border: 0; background: transparent; color: #8abdf3; font-size: 18px; cursor: pointer; }
 .empty-state { max-width: 670px; margin: 12vh auto 0; text-align: center; }
-.empty-state::before { content: ''; position: fixed; inset: 76px 0 0 256px; z-index: -1; background: linear-gradient(rgba(6,9,18,.83), rgba(6,9,18,.96)), url('../assets/cmdmtech-background.png') center/cover; opacity: .7; }
+.empty-state::before { content: ''; position: fixed; inset: 76px 0 0 256px; z-index: -1; background: linear-gradient(rgba(6,9,18,.83), rgba(6,9,18,.96)), url('/assets/cmdmtech-background.png') center/cover; opacity: .7; }
 .empty-mark { width: 74px; height: 74px; margin: 0 auto 28px; display: grid; place-items: center; border: 1px solid rgba(242,12,137,.35); border-radius: 18px; background: linear-gradient(135deg, rgba(242,12,137,.18), rgba(22,139,255,.18)); color: var(--pink); font-size: 36px; }
 .empty-state h1 { margin: 12px 0 16px; font-size: clamp(35px, 5vw, 58px); line-height: 1.02; letter-spacing: -.055em; }
 .empty-state p { margin: 0 auto 30px; max-width: 540px; color: var(--muted); line-height: 1.7; }
